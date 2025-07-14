@@ -1,0 +1,4 @@
+colorization/src/training_notebooks/*
+colorization/src/models/*
+colorization/src/demo/*
+__pycache__/
