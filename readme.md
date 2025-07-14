@@ -9,7 +9,8 @@
 *18s ~ 19s Taiwan Aboriginals [Source](https://www.reddit.com/r/TheWayWeWere/comments/192diuh/taiwan_late_1800s_and_early_1900s_by_ryuzo_torii/)*
 
 ## Walk through in short
-> [!IMPORTANT] Need to shout out to [DeOldify](https://github.com/jantic/DeOldify) which gave me a lot of thoughts for building it, also a big credit to this [tutorial](https://www.kaggle.com/code/varunnagpalspyz/pix2pix-is-all-you-need) from Varun Nagpal Spyz.
+> [!IMPORTANT]
+> Need to shout out to [DeOldify](https://github.com/jantic/DeOldify) which gave me a lot of thoughts for building it, also a big credit to this [tutorial](https://www.kaggle.com/code/varunnagpalspyz/pix2pix-is-all-you-need) from Varun Nagpal Spyz.
 
 I used Conditional Generative Adversarial Network, also known as cGAN, as the main sturcture. Specifically, it is the [Pix2Pix](https://github.com/phillipi/pix2pix) structure.
 
