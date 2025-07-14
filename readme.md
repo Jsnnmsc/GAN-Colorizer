@@ -26,7 +26,9 @@ The loss weights ratio was hard to tune. Basically, you need to keep trying and 
 ## TODO
 
 - [ ] Release the web inference interface
-- [ ] Release the model that I trained
+- [ ] Release the model
+- [ ] Release the docker image
 - [ ] Finish the readme
+      
 
 WIP!!!
