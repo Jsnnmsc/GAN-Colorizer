@@ -5,8 +5,8 @@
 ![Kaohsiung, Taiwan in 1948](Kaohsiung%20Taiwan%20in%201948.jpg)
 *Kaohsiung, Taiwan in 1948 [Source](https://www.facebook.com/photo.php?fbid=10151512843949531&id=124164094530&set=a.10151549550209531)*
 
-![18s ~ 19s Taiwanese](18s%20~%2019s%20Taiwan%20Aboriginals.jpg)
-*18s ~ 19s Taiwan Aboriginals [Source](https://www.reddit.com/r/TheWayWeWere/comments/192diuh/taiwan_late_1800s_and_early_1900s_by_ryuzo_torii/)*
+![18s ~ 19s Taiwan Indigenous](/18s%20~%2019s%20Taiwan%20Indigenous.jpg)
+*18s ~ 19s Taiwan Indigenous [Source](https://www.reddit.com/r/TheWayWeWere/comments/192diuh/taiwan_late_1800s_and_early_1900s_by_ryuzo_torii/)*
 
 ## Walk through in short
 > [!IMPORTANT]
