@@ -12,11 +12,12 @@ from .config import cfg
 
 class Colorizer:
     def __init__(self, model_path, cfg):
-        self.device = (
-            torch.device("mps")
-            if torch.backends.mps.is_available()
-            else torch.device("cpu")
-        )
+        if torch.cuda.is_available():
+            self.device = torch.device("cuda")
+        elif torch.backends.mps.is_available():
+            self.device = torch.device("mps")
+        else:
+            self.device = torch.device("cpu")
         checkpoint = torch.load(model_path, map_location=self.device)
         model = pix2pix(cfg, infer_mode=True)
         model.gen.load_state_dict(checkpoint["state_dict"])

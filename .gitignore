@@ -2,4 +2,7 @@ colorization/src/training_notebooks/*
 colorization/src/models/*
 colorization/src/demo/*
 __pycache__/
-.DS_Store
+**/.DS_Store
+
+Dockerfile
+.dockerignore
